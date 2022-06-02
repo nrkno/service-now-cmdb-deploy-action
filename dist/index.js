@@ -17273,7 +17273,7 @@ async function main() {
       responseText && console.log(responseText);
     }
 
-    if (request.status !== 200) {
+    if (request.status >= 400) {
       (0,core.setFailed)(
         `Failed to post to ServiceNow: ${[request.status, responseText].join(
           '\n'
