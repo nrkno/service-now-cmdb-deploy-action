@@ -1,4 +1,4 @@
-# Post Deployment to Service Now CMDB
+# Post Deployment to ServiceNow CMDB
 
 This action posts the deployment to Service Now CMDB.
 
