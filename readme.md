@@ -1,6 +1,6 @@
 # Post Deployment to ServiceNow CMDB
 
-This action posts the deployment to Service Now CMDB.
+This action posts the deployment to ServiceNow CMDB.
 
 ## Inputs
 
