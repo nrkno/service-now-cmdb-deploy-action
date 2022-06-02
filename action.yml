@@ -1,6 +1,10 @@
 name: 'Notify ServiceNow'
 description: 'Post Deployment to ServiceNow CMDB'
 inputs:
+  debug:
+    description: 'Debug log'
+    required: false
+    default: 'false'
   app-name:
     description: 'Application name'
     required: true

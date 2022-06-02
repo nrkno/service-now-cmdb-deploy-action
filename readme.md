@@ -10,7 +10,7 @@ This action posts the deployment to Service Now CMDB.
 
 ## `cmdbid`
 
-**Required** The ServiceNow CMDB ID for the system, can be found in [tjenestekatalogen](http://tjenestekatalog)
+**Required** The ServiceNow CMDB ID for the system, can be found in [tjenestekatalogen](http://tjenestekatalogen)
 
 ## `api-key`
 
